@@ -1,0 +1,10 @@
+.center-container .stories{
+    display: flex;
+    justify-content: center;
+}
+
+/* STORY */
+@import './story';
+
+/* Center container main */
+@import './center-main';

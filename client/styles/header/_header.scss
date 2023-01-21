@@ -1,0 +1,16 @@
+.header{
+    height: 60px;
+    width: 100%;
+    background-color: var(--blue);
+    color: var(--white);
+    display: flex;
+    padding: 0 4%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Left */ 
+@import './left';
+
+/* Right */
+@import './_right';
